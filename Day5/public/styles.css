@@ -1,0 +1,9 @@
+.food-image {
+  width: 100px;
+  height: 100px;
+}
+.food-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px; /* Optional: adds space between images */
+}
